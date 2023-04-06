@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Windows Server 2016",
+        "slug": "windows-server-2016"
+    },
+    {
+        "name": "Windows Server 2019",
+        "slug": "windows-server-2019"
+    },
+    {
+        "name": "Windows Server 2022",
+        "slug": "windows-server-2022"
+    }
+]
