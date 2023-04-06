@@ -1,0 +1,29 @@
+[
+    {
+      "name": "server1",
+      "status": "active",
+      "role": "Application Server",
+      "cluster": "DO-FRA1",
+      "platform": "windows-server-2016",
+      "vcpus": 4,
+      "memory": 16
+    },
+    {
+      "name": "server2",
+      "status": "inactive",
+      "role": "Database Server",
+      "cluster": "DO-FRA1",
+      "platform": "windows-server-2019",
+      "vcpus": 8,
+      "memory": 32
+    },
+    {
+      "name": "server3",
+      "status": "active",
+      "role": "Web Server",
+      "cluster": "DO-FRA1",
+      "platform": "windows-server-2022",
+      "vcpus": 2,
+      "memory": 8
+    }
+]
