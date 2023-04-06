@@ -9,15 +9,6 @@
       "memory": 16
     },
     {
-      "name": "server_test2",
-      "status": "offline",
-      "role": "Database Server",
-      "cluster": "DO-FRA1",
-      "platform": "Windows Server 2019",
-      "vcpus": 8,
-      "memory": 32
-    },
-    {
       "name": "server_test3",
       "status": "active",
       "role": "Application Server",
