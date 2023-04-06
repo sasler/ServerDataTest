@@ -52,5 +52,14 @@
         "platform": "Windows Server 2022",
         "vcpus": 2,
         "memory": 8
+      },
+      {
+        "name": "server_test7",
+        "status": "offline",
+        "role": "Application Server",
+        "cluster": "DO-FRA1",
+        "platform": "Windows Server 2022",
+        "vcpus": 2,
+        "memory": 8
       }
 ]
