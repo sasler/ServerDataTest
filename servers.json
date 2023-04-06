@@ -4,7 +4,7 @@
       "status": "active",
       "role": "Application Server",
       "cluster": "DO-FRA1",
-      "platform": "windows-server-2016",
+      "platform": "Windows Server 2016",
       "vcpus": 4,
       "memory": 16
     },
@@ -13,7 +13,7 @@
       "status": "inactive",
       "role": "Database Server",
       "cluster": "DO-FRA1",
-      "platform": "windows-server-2019",
+      "platform": "Windows Server 2019",
       "vcpus": 8,
       "memory": 32
     },
@@ -22,7 +22,7 @@
       "status": "active",
       "role": "Web Server",
       "cluster": "DO-FRA1",
-      "platform": "windows-server-2022",
+      "platform": "Windows Server 2022",
       "vcpus": 2,
       "memory": 8
     }
