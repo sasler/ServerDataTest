@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Hyper-V",
+        "slug": "hyper-v",
+        "description": "Microsoft Hyper-V",
+        "test": "Dummy field"
+      }
+]
