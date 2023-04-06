@@ -1,6 +1,6 @@
 [
     {
-      "name": "server1",
+      "name": "server_test1",
       "status": "active",
       "role": "Application Server",
       "cluster": "DO-FRA1",
@@ -9,7 +9,7 @@
       "memory": 16
     },
     {
-      "name": "server2",
+      "name": "server_test2",
       "status": "inactive",
       "role": "Database Server",
       "cluster": "DO-FRA1",
@@ -18,7 +18,7 @@
       "memory": 32
     },
     {
-      "name": "server3",
+      "name": "server_test3",
       "status": "active",
       "role": "Web Server",
       "cluster": "DO-FRA1",
