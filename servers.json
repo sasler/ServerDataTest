@@ -20,7 +20,7 @@
     {
       "name": "server_test3",
       "status": "active",
-      "role": "Web Server",
+      "role": "Application Server",
       "cluster": "DO-FRA1",
       "platform": "Windows Server 2022",
       "vcpus": 2,
