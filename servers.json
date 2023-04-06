@@ -25,5 +25,32 @@
       "platform": "Windows Server 2022",
       "vcpus": 2,
       "memory": 8
-    }
+    },
+    {
+        "name": "server_test4",
+        "status": "active",
+        "role": "Database Server",
+        "cluster": "DO-FRA1",
+        "platform": "Windows Server 2016",
+        "vcpus": 4,
+        "memory": 16
+      },
+      {
+        "name": "server_test5",
+        "status": "active",
+        "role": "Database Server",
+        "cluster": "DO-FRA1",
+        "platform": "Windows Server 2019",
+        "vcpus": 8,
+        "memory": 32
+      },
+      {
+        "name": "server_test6",
+        "status": "offline",
+        "role": "Application Server",
+        "cluster": "DO-FRA1",
+        "platform": "Windows Server 2022",
+        "vcpus": 2,
+        "memory": 8
+      }
 ]
