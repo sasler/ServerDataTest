@@ -10,7 +10,7 @@
     },
     {
       "name": "server_test2",
-      "status": "inactive",
+      "status": "offline",
       "role": "Database Server",
       "cluster": "DO-FRA1",
       "platform": "Windows Server 2019",
